@@ -66,3 +66,7 @@ channel = beta
 repo = mainsail-crew/mainsail
 path = /usr/data/mainsail
 
+[spoolman]
+server = http://192.168.1.124:7912/
+sync_rate = 5
+
